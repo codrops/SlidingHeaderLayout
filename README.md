@@ -5,7 +5,7 @@ A layout with a fullscreen header that slides up to reveal a content area with a
 
 [Article on Codrops](http://tympanus.net/codrops/?p=21934)
 
-[Demo](http://tympanus.net/Development/SlidingHeaderLayout/)
+[Demo](http://tympanus.net/Tutorials/SlidingHeaderLayout/)
 
 Integrate or build upon it for free in your personal or commercial projects. Don't republish, redistribute or sell "as-is". 
 
